@@ -10,6 +10,3 @@ def Division(num1, num2):
 			if factor > greatest_divisor_so_far:
 			   greatest_divisor_so_far = factor
 	return greatest_divisor_so_far
-
-print Division(12, 16)
-print Division(3, 9)
